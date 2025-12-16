@@ -10,13 +10,15 @@ export default function MenuCard({ menu }: MenuCardProps) {
     <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow">
       {/* Image */}
       <div className="relative h-48 bg-gray-200">
-        <Image
-          src={menu.image}
-          alt={menu.name}
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-          className="object-cover"
-        />
+        {menu.image && (
+          <Image
+            src={menu.image}
+            alt={menu.name}
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            className="object-cover"
+          />
+        )}
       </div>
 
       {/* Content */}
