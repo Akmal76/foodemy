@@ -1,0 +1,21 @@
+{
+  "id": "feb",
+  "name": "Kantin FEB",
+  "location": "Area Fakultas Ekonomi dan Bisnis",
+  "faculty": "FEB",
+  "image": "/images/logo.jpeg",
+  "description": "Informasi ringkas akan diperbarui.",
+  "tenants": [
+    {
+      "id": "feb-t1",
+      "name": "Tenan Umum",
+      "description": "Deskripsi akan diperbarui.",
+      "image": "/images/logo.jpeg",
+      "menus": [
+        { "id": "feb-m1", "name": "Makanan Umum", "category": "Makanan", "image": "/images/logo.jpeg" },
+        { "id": "feb-m2", "name": "Minuman Umum", "category": "Minuman", "image": "/images/logo.jpeg" },
+        { "id": "feb-m3", "name": "Kudapan Umum", "category": "Snack", "image": "/images/logo.jpeg" }
+      ]
+    }
+  ]
+}

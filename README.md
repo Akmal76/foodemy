@@ -1,4 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Foodemy UI
+
+Foodemy UI is a simple Next.js app to explore campus canteens, their tenants, and recommended foods. No login required.
+
+## How to run
+
+```bash
+npm install
+npm run dev
+# open http://localhost:3000
+```
+
+## Tech stack
+- Next.js 16 (App Router)
+- React 19
+- TypeScript
+- Tailwind CSS v4
+
+## Features
+- Home grid of canteens with search
+- Tenant list by canteen
+- Canteen detail with menu categories
+- Recommended food sidebar
+- Simple settings & guest profile
+
+## Deployment
+Any Next.js-friendly host works (e.g., Vercel).
+
 
 ## Getting Started
 

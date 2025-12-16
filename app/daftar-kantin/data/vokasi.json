@@ -1,0 +1,217 @@
+{
+  "id": "vokasi",
+  "name": "Kantin Vokasi",
+  "location": "Gedung Vokasi",
+  "faculty": "Vokasi",
+  "image": "/images/kantin/vokasi/Kantin_Vokasi.jpeg",
+  "description": "Kantin Vokasi atau biasa dikenal dengan KanVok.",
+  "mapUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d606.2323880976746!2d106.82168147170059!3d-6.368869979020917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sid!2sid!4v1765731872700!5m2!1sid!2sid",
+  "tenants": [
+    {
+      "id": "vokasi-t1",
+      "name": "Aneka Jus Putra",
+      "description": "Minuman segar dan jus berkualitas",
+      "image": "/images/kantin/vokasi/TD_Aneka_Jus_Putra.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Aneka_Jus_Putra.jpg"],
+      "menus": [
+        { "id": "vokasi-m1", "name": "Aneka Jus Putra", "category": "Minuman", "images": ["/images/kantin/vokasi/Menu_Aneka_Jus_Putra.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t2",
+      "name": "D Celup Chicken Crispy",
+      "description": "Ayam crispy yang lezat dan gurih",
+      "image": "/images/kantin/vokasi/TD_D_Celup_Chicken_Crispy.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_D_Celup_Chicken_Crispy.jpg"],
+      "menus": [
+        { "id": "vokasi-m2", "name": "D Celup Chicken Crispy", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_D_Celup_Chicken_Crispy.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t3",
+      "name": "Geprek Vokasi",
+      "description": "Geprek dengan cita rasa autentik",
+      "image": "/images/kantin/vokasi/TD_Geprek_Vokasi_.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Geprek_Vokasi_.jpg"],
+      "menus": [
+        { "id": "vokasi-m3", "name": "Geprek Vokasi", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Geprek_Vokasi_.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t4",
+      "name": "Imperial Kitchen",
+      "description": "Masakan berkualitas dengan cita rasa istimewa",
+      "image": "/images/kantin/vokasi/TD_Imperial_Kitchen.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Imperial_Kitchen.jpg"],
+      "menus": [
+        { "id": "vokasi-m4", "name": "Imperial Kitchen", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Imperial_Kitchen.jpg", "/images/kantin/vokasi/Menu_Imperial_Kitchen(1).jpg", "/images/kantin/vokasi/Menu_Imperial_Kitchen(2).jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t5",
+      "name": "Jiromi",
+      "description": "Masakan tradisional yang menggugah selera",
+      "image": "/images/kantin/vokasi/TD_Jiromi.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Jiromi.jpg"],
+      "menus": []
+    },
+    {
+      "id": "vokasi-t6",
+      "name": "Kantin Bu Enny",
+      "description": "Makanan rumahan dengan sentuhan istimewa",
+      "image": "/images/kantin/vokasi/TD_Kantin_Bu_Enny.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Kantin_Bu_Enny.jpg"],
+      "menus": [
+        { "id": "vokasi-m5", "name": "Kantin Bu Enny", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Kantin_ Bu_Enny.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t7",
+      "name": "Kebuli By Debungkus",
+      "description": "Nasi kebuli lezat dan bergizi",
+      "image": "/images/kantin/vokasi/TD_Kebuli_By_Debungkus.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Kebuli_By_Debungkus.jpg"],
+      "menus": []
+    },
+    {
+      "id": "vokasi-t8",
+      "name": "Kelontong Vokasi",
+      "description": "Kelontong dengan berbagai pilihan menu",
+      "image": "/images/kantin/vokasi/TD_Kelontong_Vokasi_.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Kelontong_Vokasi_.jpg"],
+      "menus": []
+    },
+    {
+      "id": "vokasi-t9",
+      "name": "Kang Asep",
+      "description": "Menu favorit dengan harga terjangkau",
+      "image": "/images/kantin/vokasi/TD_Mang_Asep.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Mang_Asep.jpg"],
+      "menus": [
+        { "id": "vokasi-m6", "name": "Kang Asep", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Kang_Asep.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t10",
+      "name": "Love Cafe",
+      "description": "Kafe dengan suasana nyaman dan minuman segar",
+      "image": "/images/kantin/vokasi/TD_Men_Toast.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Men_Toast.jpg"],
+      "menus": [
+        { "id": "vokasi-m7", "name": "Love Cafe", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Love_Cafe.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t11",
+      "name": "Madura Vokasi",
+      "description": "Masakan Madura dengan cita rasa autentik",
+      "image": "/images/kantin/vokasi/TD_Madura_Vokasi.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Madura_Vokasi.jpg"],
+      "menus": []
+    },
+    {
+      "id": "vokasi-t12",
+      "name": "Melona",
+      "description": "Kudapan dan minuman yang menyegarkan",
+      "image": "/images/kantin/vokasi/TD_Melona.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Melona.jpg"],
+      "menus": [
+        { "id": "vokasi-m8", "name": "Melona", "category": "Snack", "images": ["/images/kantin/vokasi/Menu_Melona.jpg", "/images/kantin/vokasi/Menu_Melona(1).jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t13",
+      "name": "Mie Ayam Yamin Pangsit Bakso Vokasi",
+      "description": "Mie ayam dengan cita rasa lezat",
+      "image": "/images/kantin/vokasi/TD_Mie_Ayam_Yamin_Pangsit_Bakso_Vokasi.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Mie_Ayam_Yamin_Pangsit_Bakso_Vokasi.jpg"],
+      "menus": [
+        { "id": "vokasi-m9", "name": "Mie Ayam Yamin", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Mie_Ayam_Yamin_Pangsit_Bakso_Vokasi.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t14",
+      "name": "Minang Mantap",
+      "description": "Masakan Padang yang lezat",
+      "image": "/images/kantin/vokasi/TD_Minang_Mantap.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Minang_Mantap.jpg"],
+      "menus": []
+    },
+    {
+      "id": "vokasi-t15",
+      "name": "Mom's By Kedai Mamih",
+      "description": "Makanan rumahan dengan cita rasa istimewa",
+      "image": "/images/kantin/vokasi/TD_Mom_s_B_ Kedai_Mamih.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Mom_s_B_ Kedai_Mamih.jpg"],
+      "menus": [
+        { "id": "vokasi-m10", "name": "Mom's By Kedai Mamih", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Mom_s_By _Kedai_Mamih.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t16",
+      "name": "Nasi Goreng 88",
+      "description": "Nasi goreng dengan cita rasa khas",
+      "image": "/images/kantin/vokasi/TD_Nasi_Goreng_88.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Nasi_Goreng_88.jpg"],
+      "menus": [
+        { "id": "vokasi-m11", "name": "Nasi Goreng 88", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Nasi_Goreng.jpg", "/images/kantin/vokasi/Menu_Nasi_Goreng(1).jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t17",
+      "name": "Sakura Bento",
+      "description": "Bento box dengan porsi yang pas",
+      "image": "/images/kantin/vokasi/TD_Sakura_Bento_.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Sakura_Bento_.jpg"],
+      "menus": []
+    },
+    {
+      "id": "vokasi-t18",
+      "name": "Soto Teh Sur",
+      "description": "Soto tradisional dan teh hangat",
+      "image": "/images/kantin/vokasi/TD_Soto_Teh_Sur.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Soto_Teh_Sur.jpg"],
+      "menus": [
+        { "id": "vokasi-m12", "name": "Soto Teh Sur", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Soto_Teh_Sur.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t19",
+      "name": "Teens",
+      "description": "Minuman untuk remaja yang asik",
+      "image": "/images/kantin/vokasi/TD_Men_Toast.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Men_Toast.jpg"],
+      "menus": [
+        { "id": "vokasi-m13", "name": "Teens", "category": "Minuman", "images": ["/images/kantin/vokasi/Menu_Teens.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t20",
+      "name": "Warkop Pakde",
+      "description": "Warung kopi dengan suasana nyaman",
+      "image": "/images/kantin/vokasi/TD_Warkop_Pakde.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Warkop_Pakde.jpg"],
+      "menus": []
+    },
+    {
+      "id": "vokasi-t21",
+      "name": "Bang Ropie",
+      "description": "Makanan favorit dengan harga bersahabat",
+      "image": "/images/kantin/vokasi/TD_Men_Toast.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Men_Toast.jpg"],
+      "menus": [
+        { "id": "vokasi-m14", "name": "Bang Ropie", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Bang_Ropie.jpg"] }
+      ]
+    },
+    {
+      "id": "vokasi-t22",
+      "name": "Ayam Penyet",
+      "description": "Ayam penyet dengan sambal yang nikmat",
+      "image": "/images/kantin/vokasi/TD_Men_Toast.jpg",
+      "displayImages": ["/images/kantin/vokasi/TD_Men_Toast.jpg"],
+      "menus": [
+        { "id": "vokasi-m15", "name": "Ayam Penyet", "category": "Makanan", "images": ["/images/kantin/vokasi/Menu_Ayam_Penyet.jpg"] }
+      ]
+    }
+  ]
+}

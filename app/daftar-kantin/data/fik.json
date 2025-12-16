@@ -1,0 +1,21 @@
+{
+  "id": "fik",
+  "name": "Kantin FIK",
+  "location": "Fakultas Ilmu Keperawatan",
+  "faculty": "FIK",
+  "image": "/images/logo.jpeg",
+  "description": "Informasi ringkas akan diperbarui.",
+  "tenants": [
+    {
+      "id": "fik-t1",
+      "name": "Tenan Umum",
+      "description": "Deskripsi akan diperbarui.",
+      "image": "/images/logo.jpeg",
+      "menus": [
+        { "id": "fik-m1", "name": "Makanan Umum", "category": "Makanan", "image": "/images/logo.jpeg" },
+        { "id": "fik-m2", "name": "Minuman Umum", "category": "Minuman", "image": "/images/logo.jpeg" },
+        { "id": "fik-m3", "name": "Kudapan Umum", "category": "Snack", "image": "/images/logo.jpeg" }
+      ]
+    }
+  ]
+}
